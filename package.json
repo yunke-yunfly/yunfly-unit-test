@@ -62,6 +62,7 @@
     "@umijs/test": "^3.5.4",
     "codecov": "^3.8.3",
     "conventional-changelog-cli": "^2.1.1",
+    "cross-env": "^7.0.3",
     "cspell": "^5.6.6",
     "gts": "^3.1.0",
     "husky": "4.3.8",
